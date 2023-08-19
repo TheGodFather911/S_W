@@ -1,1 +1,1 @@
-fix: handle edge case in data import on 2023-08-19
+refactor: migrate to new schema on 2023-08-19
