@@ -1,1 +1,1 @@
-refactor: migrate to new schema on 2024-02-10
+fix: resolve null pointer exception on 2024-02-11
