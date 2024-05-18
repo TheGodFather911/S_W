@@ -1,1 +1,1 @@
-fix: resolve null pointer exception on 2024-05-18
+fix: correct off-by-one error on 2024-05-18
