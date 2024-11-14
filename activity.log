@@ -1,1 +1,1 @@
-fix: resolve null pointer exception on 2024-11-14
+fix: handle edge case in data import on 2024-11-14
