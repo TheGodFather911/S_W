@@ -1,1 +1,1 @@
-fix: resolve null pointer exception on 2025-08-17
+feat: implement user authentication on 2025-08-18
