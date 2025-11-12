@@ -1,1 +1,1 @@
-refactor: remove deprecated code on 2025-11-11
+fix: resolve null pointer exception on 2025-11-12
