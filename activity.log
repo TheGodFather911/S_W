@@ -1,1 +1,1 @@
-fix: correct off-by-one error on 2025-11-25
+test: add unit tests for gateway on 2025-11-25
